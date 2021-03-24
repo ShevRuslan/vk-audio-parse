@@ -1,7 +1,7 @@
 {
-    "name": "vk-livereload",
+    "name": "vk-audio-parse",
     "version": "1.0.0",
-    "description": "Стартовый шаблон для написания модификаций для vk.com (или других сайтов) с живой перезагрузкой и автоматической подгрузкой скриптов на страницу",
+    "description": "Тестовое задание для студентов на прохождение практики JavaScript в МАГМА-КОМПЬЮТЕР",
     "main": "test.js",
     "scripts": {
         "dev": "gulp",
@@ -14,8 +14,6 @@
         "autoload",
         "boilerplate"
     ],
-    "author": "neyasbltb_88",
-    "license": "ISC",
     "dependencies": {},
     "devDependencies": {
         "@babel/core": "^7.4.3",
